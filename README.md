@@ -15,6 +15,10 @@ $ cd server
 # Install dependencies
 $ yarn
 
+# Enter the environment variables in .env file
+GITHUB_CLIENT_ID=""
+GITHUB_CLIENT_SECRET=""
+
 # Run Migrates
 $ npx prisma migrate dev
 
@@ -38,8 +42,7 @@ $ cd web
 # Install dependencies
 $ yarn
 
-You must get your clientid from your github profile and put it in the ".env.local" file like this:
-# Github
+# You must get your clientid from your github profile and put it in the ".env.local" file like this:
 NEXT_PUBLIC_GITHUB_CLIENT_ID=
 
 # Run
