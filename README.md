@@ -2,8 +2,8 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek - Spacetime" src="web/src/assets/wallpaper.png" width="800px" />
 </h1>
 <h1 align="center">Next Level Week - Spacetime</h1>
-<p align="center">Project <strong>Spacetime</strong> developed during the Rocketseat Next Level Week Spacetime.
-    Spacetime is a project to post memories from your time capsule and share them.
+<p align="center">Project <strong>Spacetime</strong> developed during the Rocketseat Next Level Week.
+    With this project, you will be able to can post memories from your time capsule and share them.
 </p>
 
 ## Technologies
