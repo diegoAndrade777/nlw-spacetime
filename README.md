@@ -38,6 +38,10 @@ $ cd web
 # Install dependencies
 $ yarn
 
+You must get your clientid from your github profile and put it in the ".env.local" file like this:
+# Github
+NEXT_PUBLIC_GITHUB_CLIENT_ID=
+
 # Run
 $ yarn run dev
 ```
