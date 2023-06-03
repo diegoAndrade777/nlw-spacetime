@@ -1,13 +1,9 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek - Spacetime" src="web/src/assets/wallpaper.png" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek - Spacetime" src="web/src/assets/wallpaper.png" width="800px" />
 </h1>
 <h1 align="center">Next Level Week - Spacetime</h1>
 <p align="center">Project <strong>Spacetime</strong> developed during the Rocketseat Next Level Week Spacetime.
     Spacetime is a project to post memories from your time capsule and share them.
-</p>
-
-<p align="center"> 
-  <img src="web/src/assets/NLW01.png" align="center"></img>
 </p>
 
 ## Instalation
@@ -45,7 +41,7 @@ $ yarn
 # Run
 $ yarn run dev
 ```
-<img align="center" src="web/src/assets/frontend.gif" width="800px"></img>
+<img align="center" src="web/src/assets/frontend.gif" width="1024px"></img>
 
 ## Mobile
 
