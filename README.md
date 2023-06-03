@@ -11,7 +11,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
-- [NextsJs](https://www.nextjs.org/)
+- [NextsJs](https://www.nextjs.org/) (v13 - App Router)
 - [react-toastify](https://www.npmjs.com/package/react-toastify)
 - [TailwindCSS](https://tailwindcss.com/)
 - [React Native](https://reactnative.dev/)
