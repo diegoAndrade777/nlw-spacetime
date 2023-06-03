@@ -1,14 +1,22 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek - Spacetime" src="web/src/assets/logoNLW.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek - Spacetime" src="web/src/assets/wallpaper.png" width="800px" />
 </h1>
 <h1 align="center">Next Level Week - Spacetime</h1>
-<p align="center">Project <strong>Spacetime</strong> developed during the Rocketseat Next Level Week Spacetime.
-    Spacetime is a project to post memories from your time capsule and share them.
+<p align="center">Project <strong>Spacetime</strong> developed during the Rocketseat Next Level Week.
+    With this project, you will be able to can post memories from your time capsule and share them.
 </p>
 
-<p align="center"> 
-  <img src="web/src/assets/NLW01.png" align="center"></img>
-</p>
+## Technologies
+- [NodeJS](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- [NextsJs](nextjs.org)
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+- [TailwindCSS](https://tailwindcss.com/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [react-native-toast-message](https://www.npmjs.com/package/react-native-toast-message)
 
 ## Instalation
 To install the dependencies and to execute the **Backend**, clone the project on your computer an execute:
@@ -18,6 +26,10 @@ $ cd server
 
 # Install dependencies
 $ yarn
+
+# Enter the environment variables in .env file
+GITHUB_CLIENT_ID=""
+GITHUB_CLIENT_SECRET=""
 
 # Run Migrates
 $ npx prisma migrate dev
@@ -42,10 +54,13 @@ $ cd web
 # Install dependencies
 $ yarn
 
+# You must get your clientid from your github profile and put it in the ".env.local" file like this:
+NEXT_PUBLIC_GITHUB_CLIENT_ID=
+
 # Run
 $ yarn run dev
 ```
-<img align="center" src="web/src/assets/Gravar-_11.gif" width="600px"></img>
+<img align="center" src="web/src/assets/frontend.gif" width="1024px"></img>
 
 ## Mobile
 
