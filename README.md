@@ -6,7 +6,7 @@
     Spacetime is a project to post memories from your time capsule and share them.
 </p>
 
-## Tecnologias
+## Technologies
 - [NodeJS](https://nodejs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Fastify](https://www.fastify.io/)
