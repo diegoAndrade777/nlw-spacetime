@@ -6,6 +6,18 @@
     Spacetime is a project to post memories from your time capsule and share them.
 </p>
 
+## Tecnologias
+- [NodeJS](https://nodejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Fastify](https://www.fastify.io/)
+- [Prisma](https://www.prisma.io/)
+- [NextsJs](nextjs.org)
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+- [TailwindCSS](https://tailwindcss.com/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [react-native-toast-message](https://www.npmjs.com/package/react-native-toast-message)
+
 ## Instalation
 To install the dependencies and to execute the **Backend**, clone the project on your computer an execute:
 ```bash
